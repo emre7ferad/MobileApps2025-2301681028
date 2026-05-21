@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CarLog" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryDark</item>
+        <item name="colorOnPrimary">@color/onPrimaryDark</item>
+        <item name="colorPrimaryContainer">@color/primaryContainerDark</item>
+        <item name="colorOnPrimaryContainer">@color/onPrimaryContainerDark</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryDark</item>
+        <item name="colorOnSecondary">@color/onSecondaryDark</item>
+        <item name="colorSecondaryContainer">@color/secondaryContainerDark</item>
+        <item name="colorOnSecondaryContainer">@color/onSecondaryContainerDark</item>
+
+        <!-- Tertiary brand color. -->
+        <item name="colorTertiary">@color/tertiaryDark</item>
+        <item name="colorOnTertiary">@color/onTertiaryDark</item>
+        <item name="colorTertiaryContainer">@color/tertiaryContainerDark</item>
+        <item name="colorOnTertiaryContainer">@color/onTertiaryContainerDark</item>
+
+        <!-- Error color. -->
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/onError</item>
+        <item name="colorErrorContainer">@color/errorContainer</item>
+        <item name="colorOnErrorContainer">@color/onErrorContainer</item>
+
+        <!-- Background/Surface colors. -->
+        <item name="android:windowBackground">@color/backgroundDark</item>
+        <item name="colorSurface">@color/surfaceDark</item>
+        <item name="colorOnSurface">@color/onSurfaceDark</item>
+        <item name="colorSurfaceVariant">@color/surfaceVariantDark</item>
+        <item name="colorOnSurfaceVariant">@color/onSurfaceVariantDark</item>
+        <item name="colorOutline">@color/outlineDark</item>
+    </style>
+</resources>

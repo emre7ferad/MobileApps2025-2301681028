@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarLog</string>
+    <string name="title_vehicles">My Vehicles</string>
+    <string name="title_vehicle_details">Vehicle Details</string>
+    <string name="title_repairs">Repairs &amp; Services</string>
+    <string name="action_add_vehicle">Add Vehicle</string>
+    <string name="action_save">Save</string>
+    <string name="label_make">Make</string>
+    <string name="label_model">Model</string>
+    <string name="label_year">Year</string>
+    <string name="label_license_plate">License Plate</string>
+</resources>
