@@ -13,6 +13,9 @@
         <action
             android:id="@+id/action_vehicleListFragment_to_vehicleDetailFragment"
             app:destination="@id/vehicleDetailFragment" />
+        <action
+            android:id="@+id/action_vehicleListFragment_to_addVehicleFragment"
+            app:destination="@id/addVehicleFragment" />
     </fragment>
 
     <fragment
@@ -30,4 +33,10 @@
         android:name="com.example.carlog.ui.RepairListFragment"
         android:label="@string/title_repairs"
         tools:layout="@layout/fragment_repair_list" />
+
+    <fragment
+        android:id="@+id/addVehicleFragment"
+        android:name="com.example.carlog.ui.AddVehicleFragment"
+        android:label="@string/action_add_vehicle"
+        tools:layout="@layout/fragment_add_vehicle" />
 </navigation>
