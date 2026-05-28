@@ -6,6 +6,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.DiffUtil;
 import androidx.recyclerview.widget.ListAdapter;
 import androidx.recyclerview.widget.RecyclerView;
+import com.example.carlog.R;
 import com.example.carlog.databinding.ItemRepairBinding;
 import com.example.carlog.model.Repair;
 import java.text.NumberFormat;

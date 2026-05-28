@@ -10,6 +10,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.navigation.Navigation;
+import com.example.carlog.R;
 import com.example.carlog.databinding.FragmentAddRepairBinding;
 import com.example.carlog.model.Repair;
 import com.example.carlog.viewmodel.VehicleViewModel;
