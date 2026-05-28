@@ -32,7 +32,17 @@
         android:id="@+id/repairListFragment"
         android:name="com.example.carlog.ui.RepairListFragment"
         android:label="@string/title_repairs"
-        tools:layout="@layout/fragment_repair_list" />
+        tools:layout="@layout/fragment_repair_list">
+        <action
+            android:id="@+id/action_repairListFragment_to_addRepairFragment"
+            app:destination="@id/addRepairFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/addRepairFragment"
+        android:name="com.example.carlog.ui.AddRepairFragment"
+        android:label="Add Repair"
+        tools:layout="@layout/fragment_add_repair" />
 
     <fragment
         android:id="@+id/addVehicleFragment"

@@ -9,4 +9,13 @@
     <string name="label_model">Model</string>
     <string name="label_year">Year</string>
     <string name="label_license_plate">License Plate</string>
+    <string name="label_repair_title">Repair Title (e.g. Oil Change)</string>
+    <string name="label_description">Description</string>
+    <string name="label_cost">Cost</string>
+    <string name="label_parts_changed">Parts Changed</string>
+    <string name="action_save_repair">Save Repair</string>
+    <string name="label_parts_format">Parts: %s</string>
+    <string name="msg_empty_repairs">No repairs logged yet</string>
+    <string name="msg_repair_saved">Repair saved</string>
+    <string name="msg_fill_all_fields">Please fill all fields</string>
 </resources>
